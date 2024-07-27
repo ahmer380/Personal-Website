@@ -1,0 +1,86 @@
+{
+  "timelineEvents": [
+    {
+      "id": 1,
+      "title": "Undergraduate Software Engineer Intern at Skyhigh Security",
+      "location": "Aylesbury, Buckinghamshire, United Kingdom",
+      "description": "COMING SOON!",
+      "date": "August 2024 - September 2025",
+      "icon": "work"
+    },
+    {
+      "id": 2,
+      "title": "Computer Science Undergraduate Student at King's College London",
+      "location": "Strand, London, United Kingdom",
+      "description": "My current home. Thanks to the cutting-edge tech and geeked out proffessors here, so far I've mangaged to broaden my expertise across many facets in the realm of computing, from writing test scripts in Java, to gaining a thorough understanding of databases, to even assembling my own Arduino!\nI've probably learnt even more during outside working-hours: living on my own. Consequently, I've been blessed for the friends made along the way, whom together we've shared many stories and particpated in numerous social events.\nWhether it's the 9am lectures, the 3am coding sessions or the 5pm tennis duels, there's always something to do in life at King's.",
+      "date": "September 2022 - Present",
+      "icon": "school"
+    },
+    {
+      "id": 3,
+      "title": "1st place in KCL Hackathon Blackrock Challenge",
+      "location": "Strand, London, United Kingdom",
+      "description": "During this 9-hour event, we were tasked with creating an artificial trading bot system in Java. It barely passed the performance tests, likely thanks to our Chinese Remainder Theorem-oriented solution (read more about CRT @here https://en.wikipedia.org/wiki/Chinese_remainder_theorem@)\nP.S. Special thanks to the TeamForA crew @Abu Bakarr Jalloh https://www.linkedin.com/in/abu-bakarr-jalloh-785305225@, @Zhiyuan Guo https://www.linkedin.com/in/zhiyuan-guo-90a19a2a8@, @Aniad Hossain https://www.linkedin.com/in/aniad-hossain-0aba6925b@ for the assist! :)",
+      "date": "March 2023",
+      "icon": "trophy"
+    },
+    {
+      "id": 4,
+      "title": "A-Level Student at Dr Challoner's Grammar School",
+      "location": "Amersham, Buckinghamshire, United Kingdom",
+      "description": "Life at Challoner's was... extraordinary. Unlike my past experiences I was no longer near the head of the table academically; here you're just another guy, because you're surrounded by some of the most brilliant minds in the country, whether that's in front of or behind the teacher's desk. So it comes to no surpise that my initial interest towards the computing world stems from here. Wherever my future journey takes me, I'm pretty certain I'll never quite encouter an experience similar to being a Challoner ever again.",
+      "date": "September 2020 - August 2022",
+      "icon": "school",
+      "buttonLabel": "What I got",
+      "popup": {
+        "title": "My A-Level Results",
+        "description": "Computer Science: A*\nMathematics: A*\n Physics: A*\n Extended Project Qualification (EPQ): A"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Awarded Dr Challoner's Taylor Prize of Mathematics Award",
+      "location": "Amersham, Buckinghamshire, United Kingdom",
+      "description": "To be totally honest I'm not sure why I got this award. Some may say that it's due to to how I performed in my year 12 A-Level mocks, but my cohort was geeked out of Mathematicians already. Anyhow, I'm grateful for it.",
+      "date": "November 2021",
+      "icon": "trophy"
+    },
+    {
+      "id": 6,
+      "title": "Extended Project Qualification (EPQ) on the Socioeconomic Impact of Artificial Intelligence in the UK",
+      "location": "Amersham, Buckinghamshire, United Kingdom",
+      "description": "Writing the @5000 word report https://drive.google.com/file/d/1KBbrVlgioAfS-oyRFUFWDBfIzcjH3Ot0/view?usp=drive_link@ itself was the easy part, but the majority of my time was spent scouring the internet for insightful yet reliable primary and secondary sources. I also had to present my findings live to a panel of teachers and students, which is never easy...",
+      "date": "September 2020 - April 2021",
+      "icon": "article"
+    },
+    {
+      "id": 7,
+      "title": "GCSE Student at The Misbourne School",
+      "location": "Great Missenden, Buckinghamshire, United Kingdom",
+      "description": "Although it's true that The Misbourne didn't contain the brightest set of students, it was still the haven of where my confidence exploded, plus I made some pretty awesome friends along the way. It's for that reason I'm forever fondly reminiscent for my time there.",
+      "date": "September 2015 - August 2020",
+      "icon": "school",
+      "buttonLabel": "What I got",
+      "popup": {
+        "title": "My GCSE Results",
+        "description": "Biology: 9\nComputer Science: 9\nMathematics: 9\nBusiness Studies: 8\nChemistry: 8\nEnglish Literature: 8\nFrench: 8\nGeography: 8\nPhysics: 8\nEnglish Language: 7"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Primary School Student at Waterside Combined School",
+      "location": "Chesham, Buckinghamshire, United Kingdom",
+      "description": "Don't remember much, but I was there.",
+      "date": "September 2009 - August 2015",
+      "icon": "school"
+    },
+    {
+      "id": 9,
+      "title": "Date of Birth",
+      "location": "High Wycombe, Buckinghamshire, United Kingdom",
+      "description": "When it all began...",
+      "date": "July 25th 2004",
+      "icon": "birthday"
+    }
+  ]
+}
