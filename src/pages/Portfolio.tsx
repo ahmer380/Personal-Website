@@ -32,7 +32,7 @@ function Portfolio() {
         src={project.image}
         alt='Image Unavailable'
         onError={(e: React.SyntheticEvent<HTMLImageElement, Event>) =>
-          ((e.currentTarget as HTMLImageElement).src = "src/assets/project_images/placeholder.jpg")
+          ((e.currentTarget as HTMLImageElement).src = "./src/assets/project_images/placeholder.jpg")
         }
         style={{ width: "100%", height: "auto", display: "block" }}
       />
@@ -50,12 +50,12 @@ function Portfolio() {
             <div style={{ marginTop: 15 }}>
               {currentProject.githubLink && (
                 <a href={currentProject.githubLink} target='_blank' rel='noopener noreferrer'>
-                  <img className='logoIcon' src='src/assets/logo_images/github.png' alt='Github' />
+                  <img className='logoIcon' src='./src/assets/logo_images/github.png' alt='Github' />
                 </a>
               )}
               {currentProject.demoLink && (
                 <a href={currentProject.demoLink} target='_blank' rel='noopener noreferrer'>
-                  <img className='logoIcon' src='src/assets/logo_images/paperclip.png' alt='Demo' />
+                  <img className='logoIcon' src='./src/assets/logo_images/paperclip.png' alt='Demo' />
                 </a>
               )}
             </div>
@@ -63,7 +63,7 @@ function Portfolio() {
           {formatText(currentProject.description)}
           <div style={{ display: "flex", justifyContent: "center", gap: "20px", marginBottom: "10px" }}>
             {currentProject.techStack.map((tech) => (
-              <img src={`src/assets/logo_images/${tech.toLowerCase()}.png`} alt={tech} style={{ height: "50px", width: "auto" }} />
+              <img src={`./src/assets/logo_images/${tech.toLowerCase()}.png`} alt={tech} style={{ height: "50px", width: "auto" }} />
             ))}
           </div>
         </Popup>

@@ -40,7 +40,7 @@ function Home() {
         }}
       >
         <img
-          src='src/assets/logo_images/github.png'
+          src='./src/assets/logo_images/github.png'
           alt='Twitter'
           style={{ width: "100%", maxWidth: "200px", height: "auto", borderRadius: 100 }}
         />

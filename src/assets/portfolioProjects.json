@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Foodfa - A Food Logger Mobile Application",
-      "image": "src/assets/project_images/foodfa.jpg",
+      "image": "./src/assets/project_images/foodfa.jpg",
       "date": "March 2024",
       "description": "The purpose and objective of this Food Logger mobile application is to address the growing challenge of maintaining healthy dietary habits amidst the demands of urban life. By offering users a convenient platform to set and track their dietary goals, this application empowers individuals to make informed choices about their food intake. Through features such as personalised profiles, goal setting functionalities, and a comprehensive shared food database in order to incentivise consumer collaboration and community, users can effortlessly monitor their nutritional intake throughout the day, week, month, and beyond. Additionally, the incorporation of gamification elements adds a motivational aspect, encouraging users to stay committed to their goals by incentivising them with “gummies” which is a currency they can use to open collectable card packs, which they can then collect. Ultimately, the application serves as a valuable tool for promoting healthier lifestyles and fostering a sense of accountability and achievement among its users, all from the tip of their handheld phones.\nThis Food Logger mobile app is built upon a full-stack system with a React Native frontend using TypeScript for type safety and cross-platform compatibility on iOS and Android. The backend uses Node.js for server-side operations, and MongoDB for flexible and scalable management of user, food, meal, goal, and gamification documents.",
       "techStack": ["React", "Nodejs", "TypeScript", "MongoDB"],
@@ -13,7 +13,7 @@
     {
       "id": 2,
       "title": "Brainf**k Interpreter & Compiler",
-      "image": "src/assets/project_images/brainf__k.png",
+      "image": "./src/assets/project_images/brainf__k.png",
       "date": "January 2024",
       "description": "In this Scala project, I developed an interpreter and compiler for Brainf**k, a minimalist programming language. The interpreter executes Brainf**k programs directly, while the compiler translates them into an intermediate representation for optimised execution. Scala's functional programming features such as pattern matching and immutable recursion were pivotal in enhancing the compilation process, resulting in smaller and faster executable files. I continually refined the compiler in order to improve the execution speed of Brainf**k programs.\nBrainf**k operates on a tape of memory cells manipulated by commands such as ''' > < + - [ ] . , ''', providing a unique challenge in language implementation and optimisation.",
       "techStack": ["Scala"]
@@ -21,7 +21,7 @@
     {
       "id": 3,
       "title": "Task Manager Website",
-      "image": "src/assets/project_images/task_manager.png",
+      "image": "./src/assets/project_images/task_manager.png",
       "date": "December 2023",
       "description": "Myself and 4 others developed a task manager web application. Users can create accounts and form teams, allowing them to create and assign tasks to team members. The website includes advanced features such as robust search and sorting mechanisms for tasks, and a notification system to keep users updated. The frontend was built using HTML and Bootstrap in order to provide a responsive and user-friendly interface, while Python and Django was utilised for the backend.\nThe entire project was built upon an agile lifecycle with weekly sprints, incorporating Test Driven Development (TDD). Besides coding, I as team leader organised the weekly sprints, created user stories, and ensured the team stayed on track to meet deadlines.",
       "techStack": ["Django", "Python", "HTML", "Bootstrap"],
@@ -31,7 +31,7 @@
     {
       "id": 4,
       "title": "Countdown Game Simulator",
-      "image": "src/assets/project_images/countdown.png",
+      "image": "./src/assets/project_images/countdown.png",
       "date": "November 2023",
       "description": "This C++ project provides a solver for Countdown problems, inspired by the British TV show 'Countdown'. In the game, participants are given a set of numbers and a target number. They must use basic arithmetic operations (addition, subtraction, multiplication, and division) to combine the given numbers to reach the target number. The challenge lies in finding a valid sequence of operations that achieve the target, often within a limited time frame.\nThe solver uses Reverse Polish Notation (RPN), implemented via a stack, in order to generate these sequences, calculating and comparing intermediate results along the way. Efficiency was key, as the time complexity becomes exponentially large as the number of given numbers increases.",
       "techStack": ["C++"]
@@ -39,7 +39,7 @@
     {
       "id": 5,
       "title": "Football Factfile Web Application",
-      "image": "src/assets/project_images/footyfacts.png",
+      "image": "./src/assets/project_images/footyfacts.png",
       "date": "August 2023",
       "description": "FootyFacts is a comprehensive web application designed to provide users with detailed information on over 30 footballers and managers. Users can seamlessly access personal information, career statistics, and a list of trophies won by their favorite football personalities.\nThis football factfile applies the powerful 'API-Football' service in order to retrieve and parse live JSON data. The application performs up to 100 API calls daily, ensuring the information is always up-to-date and accurate without any need for future manual intervention. The user-friendly interface, built with HTML, CSS, and JavaScript, ensures a smooth browsing experience, making it easy to find and view the desired data.",
       "techStack": ["JavaScript", "HTML", "CSS"],
@@ -49,7 +49,7 @@
     {
       "id": 6,
       "title": "1P/2P Connect 4 Game",
-      "image": "src/assets/project_images/connect_4.jpg",
+      "image": "./src/assets/project_images/connect_4.jpg",
       "date": "June 2023",
       "description": "The objective behind this project was to create a Connect 4 game that could be played by either one or two players. The game was implemented in Java, with a graphical user interface (GUI) designed using JavaFX (enhanced via CSS). The game features a simple yet intuitive interface, enabling players to take turns dropping personalised coloured discs into a grid.\nThe A.I's logic was implemented via the minimax algorithm, whereas inheritence and interfaces was utilised in order to seamlessly transition from 1P to 2P mechanics. This project was an excellent opportunity to showcase my Object-Oriented Programming skills acquired from previous Java related projects, as well as my prior experience with classical artificial intelligence algorithms.",
       "techStack": ["Java", "JavaFX", "CSS"],
@@ -66,7 +66,7 @@
     {
       "id": 8,
       "title": "Life - A Cellular Automaton Simulator",
-      "image": "src/assets/project_images/life.jpg",
+      "image": "./src/assets/project_images/life.jpg",
       "date": "Feburary 2023",
       "description": "Inspired by the classic 'Game of Life' simulation, this Java-based cell simulator is designed to create complex and dynamic ecosystems. This application extends the original simulation by incorporating symbiotic relationships, introducing lifeforms such as predators and prey, as well as a disease component. Each cell in the simulation possesses unique, deterministic/non-deterministc behaviors and interactions with other cell types, including the spread of disease, resulting in a continually evolving and diverse environment every time the program is run.",
       "techStack": ["Java"]
@@ -74,7 +74,7 @@
     {
       "id": 9,
       "title": "Sudoku Solver",
-      "image": "src/assets/project_images/sudoku_solver.png",
+      "image": "./src/assets/project_images/sudoku_solver.png",
       "date": "October 2022",
       "description": "Enter your sudoku board, click the 'submit' button, and Voila! This Python project is a simple yet effective Sudoku Solver that utilises a backtracking algorithm in order to solve any solvable sudoku board efficiently. The solver was implemented using the Pygame module, providing a visually appealing and interactive interface for users to input their sudoku puzzles. The solver then processes the input and displays the solution on the screen, allowing users to easily verify the correctness of the solution.",
       "techStack": ["Python", "Pygame"],
@@ -83,7 +83,7 @@
     {
       "id": 10,
       "title": "Chess A.I Game",
-      "image": "src/assets/project_images/chess_ai_game.png",
+      "image": "./src/assets/project_images/chess_ai_game.png",
       "date": "April 2022",
       "description": "The Chess A.I. Game is the culmination of over a year's worth of dedicated work as part of my Computer Science A-Level NEA project, which resulted in a comprehensive 150+ page report (click the link above to view). This project involved building a one-player chess application using Python and Pygame, tailored to meet specific client requirements. The goal was to create an engaging and challenging chess experience that includes a sophisticated opponent A.I capable of providing a robust gameplay experience for users.\nThe application was developed from the ground up, with the chessboard, pieces, and core functionality all designed and implemented using the Pygame module. This involved creating a visually appealing and user-friendly interface, ensuring smooth interactions, and accurately capturing the intricacies of chess rules and mechanics. Every aspect of the game, from the movement of pieces to the implementation of special moves like castling and en passant, was meticulously crafted to provide an authentic chess experience.\nTo enhance the A.I opponent, I implemented advanced algorithms such as Minimax and alpha-beta pruning. These algorithms were crucial in creating a competitive and intelligent opponent capable of evaluating various positions and making strategic decisions. The evaluation function considered multiple elements, including material value, pawn structure, center control, and king safety, in order for the A.I to simulate a human-like understanding of the game.",
       "techStack": ["Python", "Pygame"],
@@ -93,7 +93,7 @@
     {
       "id": 11,
       "title": "Snake Game",
-      "image": "src/assets/project_images/snake.png",
+      "image": "./src/assets/project_images/snake.png",
       "date": "August 2021",
       "description": "Building 'Snake' was one of my early projects in Python using Pygame, undertaken while I was still inexperienced with making 2D games. Despite this, this project boasts some silky features such as smooth controls, dynamic graphics, and increasing difficulty levels. The project involved creating the game loop, handling user input, and implementing collision detection. This experience significantly enhanced my understanding of game development basics and the Pygame library, laying the foundation for more complex projects in the future.",
       "techStack": ["Python", "Pygame"],
@@ -102,7 +102,7 @@
     {
       "id": 12,
       "title": "Tic Tac Toe A.I Game",
-      "image": "src/assets/project_images/tic_tac_toe_ai.png",
+      "image": "./src/assets/project_images/tic_tac_toe_ai.png",
       "date": "June 2021",
       "description": "My first experience making 2D games with the Pygame module. In this project, I built a simple yet engaging Tic Tac Toe game featuring a clean and intuitive interface, smooth controls, and an intelligent A.I opponent. The game offers an enjoyable and challenging experience for users, marking a solid introduction to both game development and artificial intelligence for myself.\nTechnically, the project involved implementing game logic, detecting win conditions, and managing player input. The A.I opponent was implemented using the minimax algorithm, allowing it to play optimally. With that being said, this project served as a warmup for the more complex 'Chess A.I Game' I would later undertake...",
       "techStack": ["Python", "Pygame"],
