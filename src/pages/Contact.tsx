@@ -65,10 +65,10 @@ function Contact() {
         </div>
         <div className='logosContainer'>
           <a href='https://github.com/ahmer380' target='_blank' rel='noopener noreferrer'>
-            <img className='logoIcon' src='./src/assets/logo_images/github.png' alt='Github' />
+            <img className='logoIcon' src='./logo_images/github.png' alt='Github' />
           </a>
           <a href='https://www.linkedin.com/in/ahmeralam' target='_blank' rel='noopener noreferrer'>
-            <img className='logoIcon' src='./src/assets/logo_imageslinkedin.png' alt='LinkedIn' />
+            <img className='logoIcon' src='./logo_images/linkedin.png' alt='LinkedIn' />
           </a>
         </div>
         <div className='contactDetailsRightContainer'>

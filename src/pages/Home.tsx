@@ -1,5 +1,3 @@
-import backgroundImage from "../assets/home_image.jpg";
-
 function Home() {
   const bio: JSX.Element = (
     <>
@@ -13,7 +11,7 @@ function Home() {
     <div id='Home'>
       <div
         style={{
-          backgroundImage: `url(${backgroundImage})`,
+          backgroundImage: "url(./home_image.jpg)",
           backgroundSize: "cover",
           backgroundPosition: "center",
           height: "100vh",
@@ -40,7 +38,7 @@ function Home() {
         }}
       >
         <img
-          src='./src/assets/logo_images/github.png'
+          src='./logo_images/github.png'
           alt='Twitter'
           style={{ width: "100%", maxWidth: "200px", height: "auto", borderRadius: 100 }}
         />
