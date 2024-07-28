@@ -68,7 +68,7 @@ function Contact() {
             <img className='logoIcon' src='./src/assets/logo_images/github.png' alt='Github' />
           </a>
           <a href='https://www.linkedin.com/in/ahmeralam' target='_blank' rel='noopener noreferrer'>
-            <img className='logoIcon' src='./src/assets/linkedin.png' alt='LinkedIn' />
+            <img className='logoIcon' src='./src/assets/logo_imageslinkedin.png' alt='LinkedIn' />
           </a>
         </div>
         <div className='contactDetailsRightContainer'>
