@@ -58,7 +58,7 @@
     {
       "id": 7,
       "title": "Covid-19 Statistic Viewer",
-      "image": "insert image here",
+      "image": "covid_statistic_viewer.png",
       "date": "March 2023",
       "description": "COVID-19 Statistic Viewer is a collaborative team project designed to visualise COVID-19 data across various London boroughs. The application presents users with comprehensive metrics, including case numbers, death counts, and Google Mobility Ratings (GMR). The intuitive interface allows users to easily navigate and understand the pandemic's impact on different regions, providing crucial insights through detailed visualisations.\nTechnically, the application leverages JavaFX as well as for creating dynamic and responsive user interfaces, while a colourization function maps death counts to specific colours on the borough map, enhancing data comprehension. The project team conducted and organised weekly in-person standup meetings to ensure seamless collaboration and efficient project management.",
       "techStack": ["Java", "JavaFX", "CSS"]
