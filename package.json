@@ -1,8 +1,8 @@
 {
+  "homepage": "https://ahmer380.github.io/Personal-Website/",
   "name": "personal-website",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ahmer380.github.io/Personal-Website/",
   "type": "module",
   "scripts": {
     "dev": "vite",
