@@ -18,11 +18,9 @@ function About() {
   };
 
   return (
-    <div id="About">
+    <div id='About'>
+      <h1 style={{ display: "flex", justifyContent: "center", textAlign: "center", marginTop: "5px" }}>My (honest) Journey</h1>
       <div>
-        <div style={{ display: "flex", justifyContent: "center" }}>
-          <h1>My (honest) Journey</h1>
-        </div>
         <VerticalTimeline>
           {timelineData.timelineEvents.map((element) => {
             return (
@@ -37,7 +35,8 @@ function About() {
                 <h5 className='vertical-timeline-element-subtitle'>{element.location}</h5>
                 {formatText(element.description)}
                 {element.buttonLabel && (
-                  <div key={element.id}
+                  <div
+                    key={element.id}
                     style={{
                       display: "flex",
                       justifyContent: "center",

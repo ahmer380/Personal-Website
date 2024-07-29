@@ -4,14 +4,14 @@ import "./index.css";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Home from "./pages/Home";
-import Portfolio from "./pages/Portfolio";
+import Projects from "./pages/Projects";
 import Navbar from "./components/Navbar";
 
 const App = () => (
   <div id="pages">
     <Navbar />
     <Home />
-    <Portfolio />
+    <Projects />
     <About />
     <Contact />
   </div>

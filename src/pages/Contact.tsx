@@ -26,7 +26,7 @@ function Contact() {
 
   return (
     <div id='Contact'>
-      <h1 style={{ display: "flex", justifyContent: "center", marginTop: "5px" }}>Contact Me</h1>
+      <h1 style={{ display: "flex", justifyContent: "center", textAlign: "center", marginTop: "5px" }}>Contact Me</h1>
       <div style={{ display: "flex", justifyContent: "center", width: "100%" }}>
         <form onSubmit={onSubmit} style={{ width: "70%" }}>
           <div style={{ marginBottom: "20px" }}>

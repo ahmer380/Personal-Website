@@ -14,7 +14,7 @@ interface ProjectProps {
   demoLink?: string;
 }
 
-function Portfolio() {
+function Projects() {
   const [showPopup, setShowPopup] = useState(false);
   const [currentProject, setCurrentProject] = useState<ProjectProps>(projectsData.porfolioProjects[0]);
   const handleButtonClick = (project: ProjectProps) => {
@@ -40,8 +40,8 @@ function Portfolio() {
   ));
 
   return (
-    <div id='Portfolio'>
-      <h1 style={{ display: "flex", justifyContent: "center", marginTop: "5px" }}>My Projects</h1>
+    <div id='Projects'>
+      <h1 style={{ display: "flex", justifyContent: "center", textAlign: "center", marginTop: "5px" }}>My Projects</h1>
       <div className='gridContainer'>{childElements}</div>
       {showPopup && (
         <Popup onClose={() => setShowPopup(false)}>
@@ -72,4 +72,4 @@ function Portfolio() {
   );
 }
 
-export default Portfolio;
+export default Projects;
