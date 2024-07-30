@@ -61,7 +61,7 @@ function Projects() {
             </div>
           </div>
           {formatText(currentProject.description)}
-          <div style={{ display: "flex", justifyContent: "center", gap: "20px", marginBottom: "10px" }}>
+          <div style={{ display: "flex", justifyContent: "center", gap: "20px", marginBottom: "10px", flexWrap: "wrap" }}>
             {currentProject.techStack.map((tech) => (
               <img src={`./logo_images/${tech.toLowerCase()}.png`} alt={tech} style={{ height: "50px", width: "auto" }} />
             ))}

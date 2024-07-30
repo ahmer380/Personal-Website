@@ -38,7 +38,7 @@ function Home() {
         }}
       >
         <img
-          src='./logo_images/github.png'
+          src='./profile_picture.png'
           alt='Twitter'
           style={{ width: "100%", maxWidth: "200px", height: "auto", borderRadius: 100 }}
         />
