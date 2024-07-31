@@ -28,6 +28,7 @@ function Home() {
         style={{
           display: "flex",
           flexDirection: "row",
+          justifyContent: "center",
           padding: "15px",
           margin: "auto",
           marginTop: "100px",
