@@ -28,7 +28,7 @@
       "id": 4,
       "title": "A-Level Student at Dr Challoner's Grammar School",
       "location": "Amersham, Buckinghamshire, United Kingdom",
-      "description": "Life at Challoner's was... extraordinary. Unlike my past experiences I was no longer near the head of the table academically; here you're just another guy, because you're surrounded by some of the most brilliant minds in the country, whether that's in front of or behind the teacher's desk. So it comes to no surpise that my initial interest towards the computing world stems from here. Wherever my future journey takes me, I'm pretty certain I'll never quite encouter an experience similar to being a Challoner ever again.",
+      "description": "Life at Challoner's was... extraordinary. Unlike my past experiences I was no longer near the head of the table academically; here you're just another guy, because you're surrounded by some of the most brilliant minds in the country, whether that's in front of or behind the teacher's desk. So it's no wonder that my enthusiasm and engagement towards the computing world flourished here. Wherever my future journey takes me, I'm pretty certain I'll never quite encouter an experience similar to being a Challoner ever again.",
       "date": "September 2020 - August 2022",
       "icon": "school",
       "buttonLabel": "What I got",
@@ -55,6 +55,14 @@
     },
     {
       "id": 7,
+      "title": "Participant of Royal Institution Masterclass of Computer Science at the University of Oxford",
+      "location": "Oxford, Oxfordshire, United Kingdom",
+      "description": "Challoner's before Challoner's! Consisting of 6 sessions each summer, during years 9 (2018), 10 (2019), and 11 (2020), the program introduced concepts across many facets of computing (e.g. turtle graphics, game programming, bioinformatics), utilizing resources from the Department of Computer Science at the University of Oxford.",
+      "date": "June 2018 - March 2020",
+      "icon": "school"
+    },
+    {
+      "id": 8,
       "title": "GCSE Student at The Misbourne School",
       "location": "Great Missenden, Buckinghamshire, United Kingdom",
       "description": "Although it's true that The Misbourne didn't contain the brightest set of students, it was still the sanctuary for where my confidence thrived, plus I made some pretty awesome friends along the way. It's for that reason I'm forever fondly reminiscent for my time there.",
@@ -67,7 +75,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 9,
       "title": "Primary School Student at Waterside Combined School",
       "location": "Chesham, Buckinghamshire, United Kingdom",
       "description": "Don't remember much, but I was there.",
@@ -75,7 +83,7 @@
       "icon": "school"
     },
     {
-      "id": 9,
+      "id": 10,
       "title": "Date of Birth",
       "location": "High Wycombe, Buckinghamshire, United Kingdom",
       "description": "When it all began...",
