@@ -2,16 +2,31 @@
   "porfolioProjects": [
     {
       "id": 1,
+      "title": "The World Blueprint: A Semi-Automated Content Creator",
+      "image": "the_world_blueprint.png",
+      "date": "April 2025",
+      "description": "The World Blueprint aims to be an educational-driven content creator, intending to \"explore every facet of Earth — from its rich history and diverse cultures to the scientific and environmental marvels shaping our lives. Whether you're a curious learner or simply passionate about understanding our planet, join us on a daily journey of discovery.\" - YouTube bio description\nThis project was originally intended to involve zero automation/coding, but I quickly realised the amount of downtime during some operations of the content-creation process (image web-scraping, naming the .mp4 files, uploading/scheduling the videos etc.) which could be eliminated with some clever programming. Please follow the GitHub link above if you would like to know the exact procedural steps I took to create and upload a video.\n\"Fact Versus Fiction\" is the first genre of videos I have created as of today, which are bitesized shorts confirming/debunking 3 sets of statements for a particular topic. 204 videos have been created so far, scheduled to be uploaded to YouTube and TikTok every day!",
+      "techStack": [
+        "Python",
+        "Canva",
+        "Excel",
+        "ChatGPT"
+      ],
+      "githubLink":"https://github.com/ahmer380/Fact-vs-Fiction",
+      "youtubeLink":"https://www.youtube.com/@TheWorldBlueprint",
+      "tiktokLink":"https://www.tiktok.com/@the_world_blueprint"
+    },
+    {
+      "id": 2,
       "title": "Foodfa - A Food Logger Mobile Application",
       "image": "foodfa.jpg",
       "date": "March 2024",
       "description": "The purpose and objective of this Food Logger mobile application is to address the growing challenge of maintaining healthy dietary habits amidst the demands of urban life. By offering users a convenient platform to set and track their dietary goals, this application empowers individuals to make informed choices about their food intake. Through features such as personalised profiles, goal setting functionalities, and a comprehensive shared food database in order to incentivise consumer collaboration and community, users can effortlessly monitor their nutritional intake throughout the day, week, month, and beyond. Additionally, the incorporation of gamification elements adds a motivational aspect, encouraging users to stay committed to their goals by incentivising them with “gummies” which is a currency they can use to open collectable card packs, which they can then collect. Ultimately, the application serves as a valuable tool for promoting healthier lifestyles and fostering a sense of accountability and achievement among its users, all from the tip of their handheld phones.\nThis Food Logger mobile app is built upon a full-stack system with a React Native frontend using TypeScript for type safety and cross-platform compatibility on iOS and Android. The backend uses Node.js for server-side operations, and MongoDB for flexible and scalable management of user, food, meal, goal, and gamification documents.",
       "techStack": ["React", "Nodejs", "TypeScript", "MongoDB"],
-      "githubLink": "https://github.com/Mohaned5/Avengers-SEG-Food-Logger",
       "demoLink": "https://www.youtube.com/watch?v=COEfIOKQBjA"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Brainf**k Interpreter & Compiler",
       "image": "brainf__k.png",
       "date": "January 2024",
@@ -19,17 +34,16 @@
       "techStack": ["Scala"]
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Task Manager Website",
       "image": "task_manager.png",
       "date": "December 2023",
       "description": "Myself and 4 others developed a task manager web application. Users can create accounts and form teams, allowing them to create and assign tasks to team members. The website includes advanced features such as robust search and sorting mechanisms for tasks, and a notification system to keep users updated. The frontend was built using HTML and Bootstrap in order to provide a responsive and user-friendly interface, while Python and Django was utilised for the backend.\nThe entire project was built upon an agile lifecycle with weekly sprints, incorporating Test Driven Development (TDD). Besides coding, I as team leader organised the weekly sprints, created user stories, and ensured the team stayed on track to meet deadlines.",
       "techStack": ["Django", "Python", "HTML", "Bootstrap"],
-      "githubLink": "https://github.com/SengPoh/Ibis",
       "demoLink": "http://ahmer380.pythonanywhere.com"
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "Countdown Game Simulator",
       "image": "countdown.png",
       "date": "November 2023",
@@ -37,26 +51,26 @@
       "techStack": ["C++"]
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "Football Factfile Web Application",
       "image": "footyfacts.png",
       "date": "August 2023",
       "description": "FootyFacts is a comprehensive web application designed to provide users with detailed information on over 30 footballers and managers. Users can seamlessly access personal information, career statistics, and a list of trophies won by their favorite football personalities.\nThis football factfile applies the powerful 'API-Football' service in order to retrieve and parse live JSON data. The application performs up to 100 API calls daily, ensuring the information is always up-to-date and accurate without any need for future manual intervention. The user-friendly interface, built with HTML, CSS, and JavaScript, ensures a smooth browsing experience, making it easy to find and view the desired data.",
       "techStack": ["JavaScript", "HTML", "CSS"],
-      "githubLink": "https://github.com/ahmer380/Portfolio/tree/main/Football%20Factfile%20Web%20Application",
+      "githubLink": "https://github.com/ahmer380/Football-Factfile-Web-Application",
       "demoLink": "https://footyfacts.netlify.app"
     },
     {
-      "id": 6,
+      "id": 7,
       "title": "1P/2P Connect 4 Game",
       "image": "connect_4.jpg",
       "date": "June 2023",
       "description": "The objective behind this project was to create a Connect 4 game that could be played by either one or two players. The game was implemented in Java, with a graphical user interface (GUI) designed using JavaFX (enhanced via CSS). The game features a simple yet intuitive interface, enabling players to take turns dropping personalised coloured discs into a grid.\nThe A.I's logic was implemented via the minimax algorithm, whereas inheritence and interfaces was utilised in order to seamlessly transition from 1P to 2P mechanics. This project was an excellent opportunity to showcase my Object-Oriented Programming skills acquired from previous Java related projects, as well as my prior experience with classical artificial intelligence algorithms.",
       "techStack": ["Java", "JavaFX", "CSS"],
-      "githubLink": "https://github.com/ahmer380/Portfolio/tree/main/Connect%204"
+      "githubLink": "https://github.com/ahmer380/Connect-4"
     },
     {
-      "id": 7,
+      "id": 8,
       "title": "Covid-19 Statistic Viewer",
       "image": "covid_statistic_viewer.png",
       "date": "March 2023",
@@ -64,7 +78,7 @@
       "techStack": ["Java", "JavaFX", "CSS"]
     },
     {
-      "id": 8,
+      "id": 9,
       "title": "Life - A Cellular Automaton Simulator",
       "image": "life.jpg",
       "date": "Feburary 2023",
@@ -72,41 +86,41 @@
       "techStack": ["Java"]
     },
     {
-      "id": 9,
+      "id": 10,
       "title": "Sudoku Solver",
       "image": "sudoku_solver.png",
       "date": "October 2022",
       "description": "Enter your sudoku board, click the 'submit' button, and Voila! This Python project is a simple yet effective Sudoku Solver that utilises a backtracking algorithm in order to solve any solvable sudoku board efficiently. The solver was implemented using the Pygame module, providing a visually appealing and interactive interface for users to input their sudoku puzzles. The solver then processes the input and displays the solution on the screen, allowing users to easily verify the correctness of the solution.",
       "techStack": ["Python", "Pygame"],
-      "githubLink": "https://github.com/ahmer380/Portfolio/tree/main/Sudoku%20Solver"
+      "githubLink": "https://github.com/ahmer380/Sudoku-Solver"
     },
     {
-      "id": 10,
+      "id": 11,
       "title": "Chess A.I Game",
       "image": "chess_ai_game.png",
       "date": "April 2022",
       "description": "The Chess A.I. Game is the culmination of over a year's worth of dedicated work as part of my Computer Science A-Level NEA project, which resulted in a comprehensive 150+ page report (click the link above to view). This project involved building a one-player chess application using Python and Pygame, tailored to meet specific client requirements. The goal was to create an engaging and challenging chess experience that includes a sophisticated opponent A.I capable of providing a robust gameplay experience for users.\nThe application was developed from the ground up, with the chessboard, pieces, and core functionality all designed and implemented using the Pygame module. This involved creating a visually appealing and user-friendly interface, ensuring smooth interactions, and accurately capturing the intricacies of chess rules and mechanics. Every aspect of the game, from the movement of pieces to the implementation of special moves like castling and en passant, was meticulously crafted to provide an authentic chess experience.\nTo enhance the A.I opponent, I implemented advanced algorithms such as Minimax and alpha-beta pruning. These algorithms were crucial in creating a competitive and intelligent opponent capable of evaluating various positions and making strategic decisions. The evaluation function considered multiple elements, including material value, pawn structure, center control, and king safety, in order for the A.I to simulate a human-like understanding of the game.",
       "techStack": ["Python", "Pygame"],
-      "githubLink": "https://github.com/ahmer380/Portfolio/tree/main/Chess%20A.I%20Game",
+      "githubLink": "https://github.com/ahmer380/Chess-A.I-Game",
       "demoLink": "https://drive.google.com/file/d/17C3nrvk6m3p4Jrx3cKbooR_ug3HOl6Kj/view"
     },
     {
-      "id": 11,
+      "id": 12,
       "title": "Snake Game",
       "image": "snake.png",
       "date": "August 2021",
       "description": "Building 'Snake' was one of my early projects in Python using Pygame, undertaken while I was still inexperienced with making 2D games. Despite this, this project boasts some silky features such as smooth controls, dynamic graphics, and increasing difficulty levels. The project involved creating the game loop, handling user input, and implementing collision detection. This experience significantly enhanced my understanding of game development basics and the Pygame library, laying the foundation for more complex projects in the future.",
       "techStack": ["Python", "Pygame"],
-      "githubLink": "https://github.com/ahmer380/Portfolio/tree/main/Snake"
+      "githubLink": "https://github.com/ahmer380/Snake"
     },
     {
-      "id": 12,
+      "id": 13,
       "title": "Tic Tac Toe A.I Game",
       "image": "tic_tac_toe_ai.png",
       "date": "June 2021",
       "description": "My first experience making 2D games with the Pygame module. In this project, I built a simple yet engaging Tic Tac Toe game featuring a clean and intuitive interface, smooth controls, and an intelligent A.I opponent. The game offers an enjoyable and challenging experience for users, marking a solid introduction to both game development and artificial intelligence for myself.\nTechnically, the project involved implementing game logic, detecting win conditions, and managing player input. The A.I opponent was implemented using the minimax algorithm, allowing it to play optimally. With that being said, this project served as a warmup for the more complex 'Chess A.I Game' I would later undertake...",
       "techStack": ["Python", "Pygame"],
-      "githubLink": "https://github.com/ahmer380/Portfolio/tree/main/Tic%20Tac%20Toe%20with%20A.I"
+      "githubLink": "https://github.com/ahmer380/Tic-Tac-Toe-with-A.I"
     }
   ]
 }

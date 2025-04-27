@@ -12,6 +12,8 @@ interface ProjectProps {
   techStack: string[];
   githubLink?: string;
   demoLink?: string;
+  youtubeLink?: string;
+  tiktokLink?: string;
 }
 
 function Projects() {
@@ -47,7 +49,7 @@ function Projects() {
         <Popup onClose={() => setShowPopup(false)}>
           <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
             <h2 style={{ margin: "12px 0 0 0" }}>{currentProject.title}</h2>
-            <div style={{ marginTop: 15 }}>
+            <div style={{ flexShrink: 0, marginTop: 15 }}>
               {currentProject.githubLink && (
                 <a href={currentProject.githubLink} target='_blank' rel='noopener noreferrer'>
                   <img className='logoIcon' src='./logo_images/github.png' alt='Github' />
@@ -56,6 +58,16 @@ function Projects() {
               {currentProject.demoLink && (
                 <a href={currentProject.demoLink} target='_blank' rel='noopener noreferrer'>
                   <img className='logoIcon' src='./logo_images/paperclip.png' alt='Demo' />
+                </a>
+              )}
+              {currentProject.youtubeLink && (
+                <a href={currentProject.youtubeLink} target='_blank' rel='noopener noreferrer'>
+                  <img className='logoIcon' src='./logo_images/youtube.png' alt='YouTube' />
+                </a>
+              )}
+              {currentProject.tiktokLink && (
+                <a href={currentProject.tiktokLink} target='_blank' rel='noopener noreferrer'>
+                  <img className='logoIcon' src='./logo_images/tiktok.png' alt='Tiktok' />
                 </a>
               )}
             </div>

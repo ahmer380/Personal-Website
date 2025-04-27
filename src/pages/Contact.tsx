@@ -78,7 +78,7 @@ function Contact() {
               here
             </a>
           </p>
-          <p>Ahmer Alam © | all rights reserved</p>
+          <p>Ahmer Alam 2025 © | all rights reserved</p>
         </div>
       </div>
     </div>
