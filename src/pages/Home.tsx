@@ -2,9 +2,7 @@ function Home() {
   const bio: JSX.Element = (
     <>
       Hi, my name is <strong>Ahmer Alam</strong> and I'm an undergraduate <strong>computer science</strong> student at{" "}
-      <strong>King's College London</strong>. In August I will begin a 12 month software engineering internship at <strong>Skyhigh Security</strong>,
-      assisting in the development and testing of data protection solutions for clients. Also I'm passionate for <strong>game development</strong>. In
-      my spare time I enjoy playing tennis, and I am a keen follower of pretty much every major sport in the world!
+      <strong>King's College London</strong>. I recently completed a 13-month software engineering internship at <strong>Skyhigh Security</strong>, assisting in the development and testing of data protection solutions for clients. My long-term ambition is to explore the real-word applications of <strong>machine learning</strong>!
     </>
   );
   return (

@@ -2,19 +2,19 @@
   "timelineEvents": [
     {
       "id": 1,
-      "title": "Undergraduate Software Engineer Intern at Skyhigh Security",
-      "location": "Aylesbury, Buckinghamshire, United Kingdom",
-      "description": "What a journey it's been so far! I was unsure as to what to expect in the beginning, but I've been pleasantly surprised by how calm and relaxing the experience has been. The team is super friendly, and you're made to feel like just another member of the crew from the get go, which trust me, is the best way to get a real taste of what working in industry is actually like.\nNone of this is to say that I haven't been challenged! I've been given the opportunity to work on a whole plethora of projects, from fixing a scrollbar bug on the frontend UI with Angular, to implementing OAuth 2.0 token exchange using Java Spring Boot for one of our middleware apps, to extending a Jenkins pipeline performance test suite for our ML-Text-Categoriser.\nOn top of that, myself and @Umar Khan https://www.linkedin.com/in/umar-khan-02a653219@ (the other intern on placement with me) were tasked with designing a coursework for the \"Introduction to Programming\" module at @Milton Keynes College https://www.linkedin.com/school/south-central-iot@. We even visited the campus a few times to help support the students - definitely an interesting experience being on the other side of the table for once!\nAfter hearing so much about the benefits of going on placement, I really did fight tooth and nail in order to secure this internship: safe to say that it's been worth the hustle! ✌️",
-      "date": "August 2024 - Present",
-      "icon": "work"
-    },
-    {
-      "id": 2,
       "title": "Computer Science Undergraduate Student at King's College London",
       "location": "Strand, London, United Kingdom",
       "description": "My current home. Thanks to the cutting-edge tech and geeked out proffessors here, so far I've mangaged to broaden my expertise across many facets in the realm of computing, from writing test scripts in Java, to gaining a thorough understanding of databases, to even assembling my own Arduino!\nI've probably learnt even more during outside working-hours: living on my own. Consequently, I've been blessed for the friends made along the way, whom together we've shared many stories and particpated in numerous social events.\nWhether it's the 9am lectures, the 3am coding sessions or the 5pm tennis duels, there's always something to do in life at King's.",
       "date": "September 2022 - Present",
       "icon": "school"
+    },
+    {
+      "id": 2,
+      "title": "Undergraduate Software Engineer Intern at Skyhigh Security",
+      "location": "Aylesbury, Buckinghamshire, United Kingdom",
+      "description": "What a journey it had been! I was unsure as to what to expect in the beginning, but I had been pleasantly surprised by how calm and relaxing the experience was. The team were super friendly, and you're made to feel like just another member of the crew from the get go, which trust me, is the best way to get a real taste of what working in industry is actually like.\nNone of this is to say that I wasn't challenged! I had been given the opportunity to work on a whole plethora of projects, from fixing a scrollbar bug on the frontend UI with Angular, to implementing OAuth 2.0 token exchange using Java Spring Boot for one of our middleware apps, to extending a Jenkins pipeline performance test suite for our ML-Text-Categoriser.\nOn top of that, myself and @Umar Khan https://www.linkedin.com/in/umar-khan-02a653219@ (the other intern on placement with me) were tasked with designing a coursework for the \"Introduction to Programming\" module at @Milton Keynes College https://www.linkedin.com/school/south-central-iot@. We even visited the campus a few times to help support the students - definitely an interesting experience being on the other side of the table for once!\nAfter hearing so much about the benefits of going on placement, I really did fight tooth and nail in order to secure this internship: safe to say that it's been worth the hustle! ✌️",
+      "date": "August 2024 - September 2025",
+      "icon": "work"
     },
     {
       "id": 3,
