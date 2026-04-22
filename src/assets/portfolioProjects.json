@@ -2,6 +2,19 @@
   "porfolioProjects": [
     {
       "id": 1,
+      "title": "Reinforcement Learning for Risk Board Game",
+      "image": "reinforcement_learning_for_risk_board_game.png",
+      "date": "April 2026",
+      "description": "My most significant piece of work to date. This project formed my final year dissertation for my Computer Science degree at King’s College London, where I spent over 6 months independently researching and developing a reinforcement learning approach to studying strategic play in the board game Risk. The goal of the project was to explore how learned agents can provide insight into strategy and game balance depending on the type of map played on.\nI designed and implemented a full reinforcement learning pipeline, including a map-agnostic Risk environment that models core gameplay mechanics, a training framework for multiple RL agents, and a simulation playground for running large-scale experiments. I also developed analysis tools to evaluate match outcomes, compare player performance, and investigate how different game configurations affect emergent strategic behaviour and overall balance within the model.\nThis project was both a technical and conceptual challenge, especially since I had very little prior experience in this domain. There were several challenging moments along the way, but I managed to persevere and develop a pretty neat solution. You can view the project in more detail by navigating the links above.",
+      "techStack": [
+        "Python",
+        "Overleaf"
+      ],
+      "githubLink": "https://github.com/ahmer380/risk-rl-model",
+      "demoLink": "https://drive.google.com/file/d/1j3zGSqBtBqBUQntpcW1GUVu4ui1TRLU1/view"
+    },
+    {
+      "id": 2,
       "title": "The World Blueprint: A Semi-Automated Content Creator",
       "image": "the_world_blueprint.png",
       "date": "April 2025",
@@ -17,7 +30,7 @@
       "tiktokLink":"https://www.tiktok.com/@the_world_blueprint"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Foodfa - A Food Logger Mobile Application",
       "image": "foodfa.jpg",
       "date": "March 2024",
@@ -26,7 +39,7 @@
       "demoLink": "https://www.youtube.com/watch?v=COEfIOKQBjA"
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Brainf**k Interpreter & Compiler",
       "image": "brainf__k.png",
       "date": "January 2024",
@@ -34,7 +47,7 @@
       "techStack": ["Scala"]
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "Task Manager Website",
       "image": "task_manager.png",
       "date": "December 2023",
@@ -43,7 +56,7 @@
       "demoLink": "http://ahmer380.pythonanywhere.com"
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "Countdown Game Simulator",
       "image": "countdown.png",
       "date": "November 2023",
@@ -51,7 +64,7 @@
       "techStack": ["C++"]
     },
     {
-      "id": 6,
+      "id": 7,
       "title": "Football Factfile Web Application",
       "image": "footyfacts.png",
       "date": "August 2023",
@@ -61,7 +74,7 @@
       "demoLink": "https://footyfacts.netlify.app"
     },
     {
-      "id": 7,
+      "id": 8,
       "title": "1P/2P Connect 4 Game",
       "image": "connect_4.jpg",
       "date": "June 2023",
@@ -70,7 +83,7 @@
       "githubLink": "https://github.com/ahmer380/Connect-4"
     },
     {
-      "id": 8,
+      "id": 9,
       "title": "Covid-19 Statistic Viewer",
       "image": "covid_statistic_viewer.png",
       "date": "March 2023",
@@ -78,7 +91,7 @@
       "techStack": ["Java", "JavaFX", "CSS"]
     },
     {
-      "id": 9,
+      "id": 10,
       "title": "Life - A Cellular Automaton Simulator",
       "image": "life.jpg",
       "date": "Feburary 2023",
@@ -86,7 +99,7 @@
       "techStack": ["Java"]
     },
     {
-      "id": 10,
+      "id": 11,
       "title": "Sudoku Solver",
       "image": "sudoku_solver.png",
       "date": "October 2022",
@@ -95,7 +108,7 @@
       "githubLink": "https://github.com/ahmer380/Sudoku-Solver"
     },
     {
-      "id": 11,
+      "id": 12,
       "title": "Chess A.I Game",
       "image": "chess_ai_game.png",
       "date": "April 2022",
@@ -105,7 +118,7 @@
       "demoLink": "https://drive.google.com/file/d/17C3nrvk6m3p4Jrx3cKbooR_ug3HOl6Kj/view"
     },
     {
-      "id": 12,
+      "id": 13,
       "title": "Snake Game",
       "image": "snake.png",
       "date": "August 2021",
@@ -114,7 +127,7 @@
       "githubLink": "https://github.com/ahmer380/Snake"
     },
     {
-      "id": 13,
+      "id": 14,
       "title": "Tic Tac Toe A.I Game",
       "image": "tic_tac_toe_ai.png",
       "date": "June 2021",
