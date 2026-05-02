@@ -9,7 +9,7 @@ function Home() {
     <div id='Home'>
       <div
         style={{
-          backgroundImage: "url(./home_image.jpg)",
+          backgroundImage: "url(./extras/home_image.jpg)",
           backgroundSize: "cover",
           backgroundPosition: "center",
           height: "100vh",
@@ -37,7 +37,7 @@ function Home() {
         }}
       >
         <img
-          src='./profile_picture.png'
+          src='./extras/profile_picture.png'
           alt='Twitter'
           style={{ width: "100%", maxWidth: "200px", height: "auto", borderRadius: 100 }}
         />

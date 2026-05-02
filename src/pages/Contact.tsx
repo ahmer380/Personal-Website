@@ -72,12 +72,7 @@ function Contact() {
           </a>
         </div>
         <div className='contactDetailsRightContainer'>
-          <p>
-            View my CV{" "}
-            <a href='https://drive.google.com/file/d/1a7eoaSHByh-Z7IT2FRiSwyH6n4fOdq_K/view' target='_blank' rel='noopener noreferrer'>
-              here
-            </a>
-          </p>
+          <p>View my CV{' '}<a href='/pdf/cv' target="_blank" rel="noopener noreferrer">here</a></p>
           <p>Ahmer Alam 2026 © | all rights reserved</p>
         </div>
       </div>
