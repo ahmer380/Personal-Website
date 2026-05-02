@@ -11,7 +11,7 @@
         "Overleaf"
       ],
       "githubLink": "https://github.com/ahmer380/risk-rl-model",
-      "demoLink": "/pdf/dissertation"
+      "demoLink": "#/pdf/dissertation"
     },
     {
       "id": 2,
@@ -115,7 +115,7 @@
       "description": "The Chess A.I. Game is the culmination of over a year's worth of dedicated work as part of my Computer Science A-Level NEA project, which resulted in a comprehensive 150+ page report (click the link above to view). This project involved building a one-player chess application using Python and Pygame, tailored to meet specific client requirements. The goal was to create an engaging and challenging chess experience that includes a sophisticated opponent A.I capable of providing a robust gameplay experience for users.\nThe application was developed from the ground up, with the chessboard, pieces, and core functionality all designed and implemented using the Pygame module. This involved creating a visually appealing and user-friendly interface, ensuring smooth interactions, and accurately capturing the intricacies of chess rules and mechanics. Every aspect of the game, from the movement of pieces to the implementation of special moves like castling and en passant, was meticulously crafted to provide an authentic chess experience.\nTo enhance the A.I opponent, I implemented advanced algorithms such as Minimax and alpha-beta pruning. These algorithms were crucial in creating a competitive and intelligent opponent capable of evaluating various positions and making strategic decisions. The evaluation function considered multiple elements, including material value, pawn structure, center control, and king safety, in order for the A.I to simulate a human-like understanding of the game.",
       "techStack": ["Python", "Pygame"],
       "githubLink": "https://github.com/ahmer380/Chess-A.I-Game",
-      "demoLink": "/pdf/nea"
+      "demoLink": "#/pdf/nea"
     },
     {
       "id": 13,
