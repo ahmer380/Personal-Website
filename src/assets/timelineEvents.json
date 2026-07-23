@@ -4,9 +4,14 @@
       "id": 1,
       "title": "Computer Science Undergraduate Student at King's College London",
       "location": "Strand, London, United Kingdom",
-      "description": "My current home. Thanks to the cutting-edge tech and geeked out proffessors here, so far I've mangaged to broaden my expertise across many facets in the realm of computing, from writing test scripts in Java, to gaining a thorough understanding of databases, to even assembling my own Arduino!\nI've probably learnt even more during outside working-hours: living on my own. Consequently, I've been blessed for the friends made along the way, whom together we've shared many stories and particpated in numerous social events.\nWhether it's the 9am lectures, the 3am coding sessions or the 5pm tennis duels, there's always something to do in life at King's.",
-      "date": "September 2022 - Present",
-      "icon": "school"
+      "description": "My most recent home. Thanks to the cutting-edge tech and geeked out proffessors here, I mangaged to broaden my expertise across many facets in the realm of computing, from writing test scripts in Java, to gaining a thorough understanding of databases, to even assembling my own Arduino!\nLooking back, I probably had learnt even more during outside working-hours: living on my own. Consequently, I had been blessed for the friends made along the way, whom together we've shared many stories and particpated in numerous social events.\nWhether it's the 9am lectures at the magnificent Bush House building (only reason I really attended tbh), the 3am coding sessions or the 5pm tennis duels, there was always something to do while at King's.",
+      "date": "September 2022 - July 2026",
+      "icon": "school",
+      "buttonLabel": "What I got",
+      "popup": {
+        "title": "My Undergraduate Degree Results",
+        "description": "1st Class Honours (82%)\nView my academic transcript @here #/pdf/academic_transcript@"
+      }
     },
     {
       "id": 2,
