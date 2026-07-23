@@ -1,7 +1,7 @@
 function Home() {
   const bio: JSX.Element = (
     <>
-      Hi, my name is <strong>Ahmer Alam</strong> and I'm an undergraduate <strong>Computer Science</strong> student at{" "}
+      Hi, my name is <strong>Ahmer Alam</strong> and I'm a recent <strong>Computer Science</strong> graduate from{" "}
       <strong>King's College London</strong>. Over the past few months, I've been working on leveraging different <strong>Reinforcement Learning</strong> techniques to explore strategy and game balance in the board game Risk, resulting in a recently completed academic paper. Read more about my work below!
     </>
   );
